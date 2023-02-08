@@ -3,7 +3,7 @@
 # To modify everything below here modify main.cf.append and run a Docker
 # image again.
 
-virtual_mailbox_domains = cloyne.org, cloyne.net
+virtual_mailbox_domains = northsidecoop.org
 
 virtual_minimum_uid = 65534
 virtual_uid_maps = static:65534
